@@ -17,6 +17,9 @@ To contribute to the project contact Pablo Impallari at impallari@gmail.com
 
 ChangeLog
 
+15 Jan 2016 (Pablo Impallari) Miltonian v1.007
+- Small compatibility fix
+
 06 Jan 2016 (Pablo Impallari) Miltonian v1.006
 - Regenerated to pass the OpenType Sanitizer
 
